@@ -1,19 +1,24 @@
 {
 "data":[
      {
-    "newstitle":"Free Full Vivah Movie Best Part-1 HD",
+    "newstitle":"Angray Birds",
     "discription":"Balika",
-    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/movie3.mp4"
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/angry%201.mp4"
   },
     {
-    "newstitle":"Free Full Vivah Movie Best Part-2 HD",
+    "newstitle":"Angray Birds 2",
     "discription":"",
-    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/movie2.mp4"
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/angray%202.mp4"
   },  
    {
-    "newstitle":"Free Full Vivah Movie Best Part-3 HD",
+    "newstitle":"Jumanji",
     "discription":"",
-    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/movie1.mp4"
-  }    
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/jumanji.mp4"
+  },  
+   {
+    "newstitle":"Minions",
+    "discription":"",
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/minion.mp4"
+  }        
 ]
 }
