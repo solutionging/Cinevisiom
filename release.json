@@ -1,19 +1,24 @@
 {
 "data":[
      {
-    "newstitle":"Free Full Vivah Movie Best Part-1 HD",
-    "discription":"Balika",
-    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/movie3.mp4"
+    "newstitle":"Iron Man",
+    "discription":"",
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/Iron%20man.mp4"
   },
     {
-    "newstitle":"Free Full Vivah Movie Best Part-2 HD",
+    "newstitle":"Thor",
     "discription":"",
-    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/movie2.mp4"
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/thor.mp4"
   },  
    {
-    "newstitle":"Free Full Vivah Movie Best Part-3 HD",
+    "newstitle":"Lucifer",
     "discription":"",
-    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/movie1.mp4"
-  }    
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/Lucifer.mp4"
+  },  
+   {
+    "newstitle":"Money Heist",
+    "discription":"",
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/moneyheist.mp4"
+  }       
 ]
 }
